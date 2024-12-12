@@ -1,0 +1,59 @@
+ _aln.pos         10        20        30        40        50        60
+3kc6A     -----------------------------------------N-------------------------- 
+Assign_3  MERIKELRDLMSQPRTREILTKTTVDHMAIIKKYTSGRQEKNPALRMKWMMAMKYPITADKRIMEMIP 
+ _consrvd                                          *
+
+ _aln.p   70        80        90       100       110       120       130
+3kc6A     ----------------GPESVLVN--TYQWIIRNWET------------------------------- 
+Assign_3  ERNEQGQTLWSKTNDAGSDRVMVSPLAVTWWNRNGPTTSTVHYPKVYKTYFEKVERLKHGTFGPVHFR 
+ _consrvd                 *   * *      *  **  *
+
+ _aln.pos  140       150       160       170       180       190       200
+3kc6A     --VKI---------------QWSQD--------------------------------------PTMLY 
+Assign_3  NQVKIRRRVDINPGHADLSAKEAQDVIMEVVFPNEVGARILTSESQLTITREKKEELHDCKIAPLMVA 
+ _consrvd   ***                  **                                      * *
+
+ _aln.pos    210       220       230       240       250       260       270
+3kc6A     NKME--------------------FE------------------------------------------ 
+Assign_3  YMLERELVRKTRFLPVAGGTSSVYIEVLHLTQGTCWEQMYTPGGEVRNDDVDQSLIIAARNIVRRATV 
+ _consrvd    *                     *
+
+ _aln.pos      280       290       300       310       320       330       340
+3kc6A     ---PFQSLV--------------------P---------KAARG-------QYSGFV----------- 
+Assign_3  SADPLASLLEMCHSTQIGGVRMVDILRQNPTEEQAVDICKAALGLRISSSFSFGGFTFKRTSGSSVKK 
+ _consrvd    *  **                     *         *** *          **
+
+ _aln.pos        350       360       370       380       390       400
+3kc6A     --------------------------------------RTLFQQMR---------------------D 
+Assign_3  EEEVLTGNLQTLKIRIHEGYEEFTMVGRRATAILRKATRRLIQLIVSGRDEQSIAEAVIVAMVFSQED 
+ _consrvd                                       * * *                        *
+
+ _aln.p  410       420       430       440       450       460       470
+3kc6A     -----------------------------------VL------------------------------- 
+Assign_3  CMIKAVRGDLNFVNRANQRLNPMHQLLRHFQKDAKVLFQNWGIEPIDNVMGMIGILPDMTPSTEVSLR 
+ _consrvd                                    **
+
+ _aln.pos  480       490       500       510       520       530       540
+3kc6A     -------G---------------------------------------------TF------------- 
+Assign_3  GVRVSKMGVDEYSSTERVVVSIDRFLRVRDQRGNVLLSPEEVSETQGTEKLTITYSSSMMWEINGPES 
+ _consrvd        *                                             *
+
+ _aln.pos    550       560       570       580       590       600       610
+3kc6A     ---DTVQII---------------KLL-------PFAAAPPKQSR----------------------- 
+Assign_3  VLVNTYQWIIRNWETVKIQWSQDPTMLYNKMEFEPFQSLVPKAARGQYSGFVRTLFQQMRDVLGTFDT 
+ _consrvd     * * *                 *       **    **  *
+
+ _aln.pos      620       630       640       650       660       670       680
+3kc6A     ------------------MQFSSLTVNVR--GMRILVRGNSPVFNYNKATKRLTVLGKDAGALTEDPD 
+Assign_3  VQIIKLLPFAAAPPEQSKMQFSSLTVNVRGSGMRILVRGNSPVFNYNKATKRLTILGKDAGALTEDPD 
+ _consrvd                   ***********  *********************** *************
+
+ _aln.pos        690       700       710       720       730       740
+3kc6A     EGTAGVESAVLRGFLILGKEDKRYGPALSINELSNLAKGEKANVLIGQGDVVLVMKRKR--------- 
+Assign_3  EGTSGVESAVLRGFLILGKEDKRYGPALSINELSNLTKGEKANVLIGQGDVVLVMKRKRDSSILTDSQ 
+ _consrvd *** ******************************** **********************
+
+ _aln.p  750
+3kc6A     ----------- 
+Assign_3  TATKRIRMAIN 
+ _consrvd
