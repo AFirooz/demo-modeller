@@ -1,0 +1,34 @@
+3l56 B SUCCESS
+3kc6 A SUCCESS
+6qpf C SUCCESS
+6euw A SUCCESS
+5fmm A SUCCESS
+7nfq A SUCCESS
+
+5ef9 A FAILED (Unchosen)
+4q46 A FAILED (Unchosen)
+5m3h C FAILED (Unchosen)
+4wrt C FAILED (Unchosen)
+4u6o A FAILED (Unchosen)
+4u6o B FAILED (Unchosen)
+2vy8 A FAILED (Unchosen)
+6qnw C FAILED (Unchosen)
+6qnw L FAILED (Unchosen)
+5d98 C FAILED (Unchosen)
+5d9a C FAILED (Unchosen)
+6euy B FAILED (Unchosen)
+6eux A FAILED (Unchosen)
+6euv A FAILED (Unchosen)
+5eg7 A FAILED (Unchosen)
+6evj C FAILED (Unchosen)
+5wl0 A FAILED (Unchosen)
+4eqk A FAILED (Unchosen)
+3r2v A FAILED (Unchosen)
+5fmz F FAILED (Unchosen)
+7xme B FAILED (Unchosen)
+7z42 C FAILED (Unchosen)
+7z42 F FAILED (Unchosen)
+
+3a1g B FAILED (Unchosen)
+4uaf E FAILED (Unchosen)
+2jdq D FAILED (Unchosen)
